@@ -1,4 +1,3 @@
-// Project made by Tal Dor 314630336
 #define CRT_SECURE_NO_WARNINGS
 #include "Source.h"
 
